@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "pilha.h"  // Supondo que o arquivo pilha.h está no mesmo diretório
+#include "pilha.h" 
 
 int main() {
     int n, num;
